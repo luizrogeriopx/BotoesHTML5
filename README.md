@@ -1,10 +1,9 @@
 # BotoesHTML5 – Troca de Imagem no Hover
-<code>
-<img width="30" height="30" alt="face" src="https://github.com/user-attachments/assets/b5e03aba-dbd2-4c37-96dd-1369bbf82656" />
-<img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/76b6a5bf-5c7b-4b8d-b67a-37f7dac39d02" />
-<img width="30" height="30" alt="youtube" src="https://github.com/user-attachments/assets/52d37e61-d7b7-4f98-85b4-0c108bc9cc31" />
-<img width="30" height="30" alt="whatsapp" src="https://github.com/user-attachments/assets/2d2750c5-71c5-4766-afef-0e4594bfc400" />
-</code>
+<code><img width="30" height="30" alt="face" src="https://github.com/user-attachments/assets/b5e03aba-dbd2-4c37-96dd-1369bbf82656" /></code>
+<code><img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/76b6a5bf-5c7b-4b8d-b67a-37f7dac39d02" /></code>
+<code><img width="30" height="30" alt="youtube" src="https://github.com/user-attachments/assets/52d37e61-d7b7-4f98-85b4-0c108bc9cc31" /></code>
+<code><img width="30" height="30" alt="whatsapp" src="https://github.com/user-attachments/assets/2d2750c5-71c5-4766-afef-0e4594bfc400" /></code>
+
 
 
 
